@@ -5,9 +5,9 @@ author: "Chester"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Dr Eric Michael Scheffel joined The University of Nottingham Ningbo China in September 2011 as a Lecturer in Quantitative Methods at the Faculty of Business and since September 2018 he has been working as Associate Professor in Economics at the School of Economics. He holds a BSc in Economics and Management Studies from Cardiff University, an MSc in Economics with distinction from Warwick University, and a PhD in Economics from Cardiff University. Previously, he worked in the Economics section of Cardiff Business School as a teaching assistant (2008-2009), followed by an employment spell in the British civil service as an economic analyst working at the Office for National Statistics (ONS), where he managed and researched confidential micro data. Prior to academia, Eric worked in a large pharmaceutical company in Sao Paulo, Brazil (2000) and in an insurance company in Germany (2005).
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+You can find out more about Eric' research and employment history at his dedicated [Orcid profile](https://orcid.org/0000-0001-6005-6661).
 
 ## Contribute
 Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
