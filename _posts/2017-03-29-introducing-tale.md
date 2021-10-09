@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Tale"
+title:  "Extracting Ideas"
 author: "Eric"
 comments: true
 tags: Tale
@@ -9,7 +9,7 @@ sticky: true
 hidden: true
 ---
 
-Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.<!--more-->
+The most critical resource for economic success in the 21st century is not data nor information, no. The most critical resource is the blueprint of *what* to do with information and *how* to commercialy exploit information in the form of *ideas*. So there we have it! It is *ideas* which are the new make-or-break resource of this century. In this post I am going to offer some reflections on socio-economic systems which are optimized to and specialized in the *extraction* of ideas.<!--more-->
 
 ## Tale features
 - Compatible with GitHub Pages
